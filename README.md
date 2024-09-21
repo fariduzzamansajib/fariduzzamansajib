@@ -1,4 +1,4 @@
-(https://media.licdn.com/dms/image/v2/D5616AQHTc2BAsYzlYA/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1720962419452?e=2147483647&v=beta&t=AwLTuMLZnscTgiT-1pUCtCmEQfs5fywbI_dwYTj1fK0)
+<img src="img_girl.jpg" alt="Girl in a jacket" width="500" height="600">
 <h1 align="center">Hi 👋, I'm Fariduzzaman Sajib</h1>
 <h3 align="center">A passionate software developer using Angular, Spring Boot & Flutter from Bangladesh.</h3>
 
