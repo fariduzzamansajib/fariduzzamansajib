@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://fariduzzamansajib.com](https://fariduzzamansajib.com)
 
-- 📝 I regularly write articles on [https://about.me/fariduzzaman_sajib/blog](https://about.me/fariduzzaman_sajib/blog)
+- 📝 I regularly write articles on [https://fariduzzamansajib.com/blog](https://fariduzzamansajib.com/blog)
 
 - 💬 Ask me about **Angular, Spring Boot & Flutter**
 
